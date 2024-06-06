@@ -6,6 +6,11 @@ Repositorio de ejemplo para curso Git Desde Cero 2024
 
 
 ## Instalando la utilidad de git-core
+## Instalando la utilidad de git-core
+## Instalando la utilidad de git-core
+## Instalando la utilidad de git-core
+
+
 *Windows
     *...
 *Linux
@@ -22,3 +27,9 @@ Repositorio de ejemplo para curso Git Desde Cero 2024
 | log | --- ||
 | remote| --- ||
 | fetch | --- ||
+
+## Instalando la utilidad de git-core
+
+## Instalando la utilidad de git-core
+
+## Instalando la utilidad de git-core
